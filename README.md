@@ -1,12 +1,9 @@
+<img align="right" src="https://ghproxy.com/https://raw.githubusercontent.com/FrostN0v0/FrostN0v0/main/assets/image.jpg" width='45%' alt="希原·夏森——From 《黑森町奇谭》">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+FrostN0v0.)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=FrostN0v0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
-</p>
-
-📱 **My Account**
+📱 **My Account ´ ▽ ` )ﾉ**
 
 
 <!-- tags -->
@@ -22,7 +19,9 @@
 [![Mail](https://img.shields.io/badge/QQMail-1614591760@qq.com-EA4335?style=flat-square)](mailto:1614591760@qq.com)
 
 
-### <div align="center">🌟 My Skill</div>
+![Profile Views](https://moe-counter.glitch.me/get/@:FrostN0v0)
+
+### <div >🌟 My Skill</div>
 
 
 <hr>
@@ -30,6 +29,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/C-%2332B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C语言">
+  <img src="https://img.shields.io/badge/java-%23F09B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
+    <img src="https://img.shields.io/badge/Vue-%23209B00.svg?style=for-the-badge&logo=Vue.js&logoColor=white" alt="VUE">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -50,12 +51,9 @@
   <img src="https://www.3ds.com/assets/3ds-navigation/Solidworks-logo_red.svg" alt="Solid Works">
 </p>
 
-### <div align="center">📊 Github Stats</div>
+### <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Github Stats</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrostN0v0&show_icons=true&hide_border=true"  alt="FrostN0v0's GitHub stats"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostN0v0&layout=compact&hide_border=true"  alt="FrostN0v0's top langs"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FrostN0v0&count_private=true&show_icons=true&theme=moltack&hide_title=true"  alt="FrostN0v0's GitHub stats" align='center'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostN0v0&layout=compact&theme=moltack"   align='center'  alt="FrostN0v0's top langs"/>
