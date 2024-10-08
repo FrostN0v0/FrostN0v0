@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostN0v0&layout=compact&theme=moltack"   align='center'  alt="FrostN0v0's top langs"></img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -67,26 +67,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     44 mins             ███████████████████░░░░░░   77.85 % 
-Java                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-XML                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             ███████████████████░░░░░░   77.98 % 
-IntelliJ IDEA            8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-PyCharm                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-WebStorm                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-flutter_application_1    44 mins             ███████████████████░░░░░░   77.98 % 
-ground-resistance-service8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Chtholly                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-ground-resistance-ui     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 01:47:26 UTC
+ Last Updated on 08/10/2024 01:44:19 UTC
 <!--END_SECTION:waka-->
