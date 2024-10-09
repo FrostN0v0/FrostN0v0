@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostN0v0&layout=compact&theme=moltack"   align='center'  alt="FrostN0v0's top langs"></img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -67,16 +67,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 hrs 56 mins       █████████████████████░░░░   82.55 % 
+TOML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 14 mins       ██████████████████████░░░   86.63 % 
+PyCharm                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nonebot-plugin-color-see-6 hrs 18 mins       ██████████████████████░░░   87.61 % 
+ForNoneTest              53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +98,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2024 01:44:19 UTC
+ Last Updated on 09/10/2024 01:43:19 UTC
 <!--END_SECTION:waka-->
