@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostN0v0&layout=compact&theme=moltack"   align='center'  alt="FrostN0v0's top langs"></img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%203%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -67,16 +67,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   5 hrs 18 mins       █████████████████████████   98.30 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 5 hrs 18 mins       █████████████████████████   98.55 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ground-resistance-ui     4 hrs 34 mins       █████████████████████░░░░   84.95 % 
+ui-lightning-standalone  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+ground-resistance-service3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+flutter_application_1    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +101,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2025 01:43:25 UTC
+ Last Updated on 03/01/2025 01:44:31 UTC
 <!--END_SECTION:waka-->
