@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostN0v0&layout=compact&theme=moltack"   align='center'  alt="FrostN0v0's top langs"></img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2048%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -103,5 +103,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2025 01:48:02 UTC
+ Last Updated on 20/01/2025 01:43:45 UTC
 <!--END_SECTION:waka-->
