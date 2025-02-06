@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostN0v0&layout=compact&theme=moltack"   align='center'  alt="FrostN0v0's top langs"></img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2037%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -67,16 +67,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              ████████████████████░░░░░   79.67 % 
+JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              ████████████████████░░░░░   79.67 % 
+WebStorm                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ground-resistance-service0 secs              ████████████████████░░░░░   79.67 % 
+ground-resistance-ui     0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +95,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 01:43:37 UTC
+ Last Updated on 06/02/2025 01:44:00 UTC
 <!--END_SECTION:waka-->
