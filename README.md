@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD009 MD012 MD033 MD041 -->
-<img align="right" src="https://raw.githubusercontent.com/FrostN0v0/FrostN0v0/main/assets/image.jpg" width='36%' alt="希原·夏森——From 《黑森町奇谭》">
+<img align="right" src="https://raw.githubusercontent.com/FrostN0v0/FrostN0v0/main/assets/image.jpg" width='38%' alt="希原·夏森——From 《黑森町奇谭》">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+FrostN0v0.)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 [![Mail](https://img.shields.io/badge/GMail-suny25802@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:suny25802@gmail.com)
 [![Mail](https://img.shields.io/badge/QQMail-1614591760@qq.com-EA4335?style=flat-square)](mailto:1614591760@qq.com)  
 
-<img src="https://count.getloli.com/@FrostN0v0?name=FrostN0v0&theme=booru-lewd" alt="Moe Counter" height="160" />
+<img src="https://count.getloli.com/@FrostN0v0?name=FrostN0v0&theme=booru-lewd" alt="Moe Counter" height="155" />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hitokoto-dark.png" />
