@@ -18,7 +18,7 @@
 [![Mail](https://img.shields.io/badge/QQMail-1614591760@qq.com-EA4335?style=flat-square)](mailto:1614591760@qq.com)
 
 
-![Profile Views](https://moe-counter.glitch.me/get/@:FrostN0v0)
+![Profile Views](https://count.getloli.com/@FrostN0v0?name=FrostN0v0&theme=booru-lewd)
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hitokoto-dark.png" />
