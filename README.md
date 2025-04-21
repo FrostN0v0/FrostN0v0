@@ -17,13 +17,14 @@
 [![Mail](https://img.shields.io/badge/GMail-suny25802@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:suny25802@gmail.com)
 [![Mail](https://img.shields.io/badge/QQMail-1614591760@qq.com-EA4335?style=flat-square)](mailto:1614591760@qq.com)
 
+
+![Profile Views](https://moe-counter.glitch.me/get/@:FrostN0v0)
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hitokoto-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/hitokoto.png" />
     <img alt="Hitokoto Quote" src="./assets/hitokoto.png" />
   </picture>
-
-![Profile Views](https://moe-counter.glitch.me/get/@:FrostN0v0)
 
 ### 🌟 My Skill
 
