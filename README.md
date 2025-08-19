@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2016%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,16 +75,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 32 mins       ██████████████░░░░░░░░░░░   55.19 % 
+Java                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 5 mins        █████████████████░░░░░░░░   66.92 % 
+IntelliJ IDEA            1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nonebot-plugin-skland    3 hrs 5 mins        █████████████████░░░░░░░░   66.92 % 
+ground-resistance-service1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +106,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2025 02:19:44 UTC
+ Last Updated on 19/08/2025 02:00:25 UTC
 <!--END_SECTION:waka-->
