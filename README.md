@@ -67,6 +67,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C197%20hrs%2016%20mins-blue)
+
 **I Mostly Code in Python** 
 
 ```text
@@ -80,5 +82,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 02:01:00 UTC
+ Last Updated on 29/09/2025 01:54:59 UTC
 <!--END_SECTION:waka-->
