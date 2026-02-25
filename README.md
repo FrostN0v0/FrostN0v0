@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C484%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,16 +75,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   22 mins             ████████████░░░░░░░░░░░░░   47.88 % 
+Jinja                    16 mins             █████████░░░░░░░░░░░░░░░░   35.32 % 
+JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nonebot-plugin-skland    47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +104,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 02:45:34 UTC
+ Last Updated on 25/02/2026 02:46:23 UTC
 <!--END_SECTION:waka-->
