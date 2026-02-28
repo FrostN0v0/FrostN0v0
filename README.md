@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C490%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C495%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,35 +75,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 17 mins       █████████████████░░░░░░░░   68.97 % 
-JSON                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Jinja                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   6 hrs 19 mins       ██████████████████░░░░░░░   73.00 % 
+JSON                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Jinja                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    5 hrs 56 mins       ████████████████████████░   95.50 % 
-git-tutor                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+nonebot-plugin-skland    8 hrs 18 mins       ████████████████████████░   95.92 % 
+git-tutor                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+STM32-GResBoard          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+ground-resistance-ui     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+ground-resistance-service0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 27/02/2026 02:40:07 UTC
+ Last Updated on 28/02/2026 02:28:54 UTC
 <!--END_SECTION:waka-->
