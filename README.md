@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C574%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C578%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,38 +75,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   27 hrs 25 mins      ████████████████████░░░░░   81.82 % 
-TOML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Markdown                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Python                   28 hrs 46 mins      █████████████████████░░░░   83.15 % 
+TOML                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aotoreg                  15 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.26 % 
-codex_auto_register      5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-nonebot-plugin-rollpig   4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-nonebot-plugin-codexreg  3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-nonebot-plugin-skland    1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+aotoreg                  15 hrs 30 mins      ███████████░░░░░░░░░░░░░░   44.82 % 
+codex_auto_register      5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+nonebot-plugin-codexreg  3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+nonebot-plugin-rollpig   2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+nonebot_plugin_doroending2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 💻 Operating System: 
-Windows                  33 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 27/03/2026 03:16:23 UTC
+ Last Updated on 28/03/2026 02:47:23 UTC
 <!--END_SECTION:waka-->
