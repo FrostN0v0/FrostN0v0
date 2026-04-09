@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,38 +75,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 17 mins      █████████████░░░░░░░░░░░░   53.38 % 
-Other                    4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Markdown                 2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-TOML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Git Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Python                   7 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
+Other                    5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.81 % 
+Markdown                 3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qt-locator-debugger      14 hrs 18 mins      ███████████████████░░░░░░   74.16 % 
-Unknown Project          1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-nonebot-plugin-arkguesser1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-nonebot-plugin-codexreg  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-superpowers-dev          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+qt-locator-debugger      15 hrs 16 mins      █████████████████████░░░░   84.98 % 
+Unknown Project          1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+superpowers-dev          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+multiPagePlugins-1       16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+any-auto-register        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Windows                  19 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ████████████░░░░░░░░░░░░░   48.72 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 08/04/2026 03:18:18 UTC
+ Last Updated on 09/04/2026 02:54:08 UTC
 <!--END_SECTION:waka-->
