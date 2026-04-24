@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C627%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C627%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,40 +75,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Markdown                 1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Other                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Java                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-C++                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Python                   2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Other                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Java                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+C++                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       █████████████████░░░░░░░░   66.21 % 
-Unknown Editor           2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
+VS Code                  5 hrs 35 mins       █████████████████░░░░░░░░   68.60 % 
+Unknown Editor           2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
 
 🐱‍💻 Projects: 
-qt-locator-debugger      2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
-ground-resistance        1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-guonenganchu             57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-ground-resistance-service49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-ground-resistance-setup  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+qt-locator-debugger      2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+ground-resistance        1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+guonenganchu             1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+ground-resistance-service49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+ground-resistance-setup  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 💻 Operating System: 
-Windows                  6 hrs 34 mins       ██████████████████████░░░   87.27 % 
-Linux                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Windows                  6 hrs 59 mins       █████████████████████░░░░   85.80 % 
+Linux                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 23/04/2026 03:30:36 UTC
+ Last Updated on 24/04/2026 03:33:14 UTC
 <!--END_SECTION:waka-->
