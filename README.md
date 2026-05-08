@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C631%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C634%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,36 +75,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 40 mins             ██████████████████████░░░   87.68 % 
-Batchfile                5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 59 mins             ██████████████████░░░░░░░   70.55 % 
+Docker                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Other                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        ██████████████████████░░░   89.86 % 
+Claude Code              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 
 🐱‍💻 Projects: 
-lobehub                  19 mins             ███████████░░░░░░░░░░░░░░   43.51 % 
-qt-locator-debugger      15 mins             █████████░░░░░░░░░░░░░░░░   34.80 % 
-mds                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-STM32-GResBoard          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+mds                      32 mins             ██████████░░░░░░░░░░░░░░░   38.56 % 
+CPA-Manager              24 mins             ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+lobehub                  14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+STM32-GResBoard          12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   44.74 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 07/05/2026 03:47:49 UTC
+ Last Updated on 08/05/2026 03:38:59 UTC
 <!--END_SECTION:waka-->
