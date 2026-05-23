@@ -67,45 +67,47 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2052%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Markdown                 3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Java                     2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-JSON                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Vue                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Python                   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Java                     2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Markdown                 2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+JSON                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Vue                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 26 mins       ██████████████░░░░░░░░░░░   55.46 % 
-Claude Code              7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.54 % 
+VS Code                  9 hrs 18 mins       ███████████████░░░░░░░░░░   60.61 % 
+Claude Code              6 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.39 % 
 
 🐱‍💻 Projects: 
-ground-resistance        4 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-nonebot-plugin-skland    3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-ground-resistance-service3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-EndfieldGachaPoolTable   2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-nonebot-plugin-wakatime  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+ground-resistance        4 hrs               ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+nonebot-plugin-skland    3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+ground-resistance-service3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+nonebot-plugin-wakatime  2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+ground-resistance-ui     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 💻 Operating System: 
-Windows                  17 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  15 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████████░░░░░░░░░░░░░░   44.74 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   18 repos            ████████████░░░░░░░░░░░░░   46.15 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 04:16:02 UTC
+ Last Updated on 23/05/2026 03:54:02 UTC
 <!--END_SECTION:waka-->
