@@ -67,20 +67,48 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C693%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C703%20hrs%201%20min-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Python                   4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+JSON                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Vue                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+TOML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 44 mins      ███████████████░░░░░░░░░░   58.98 % 
+Claude Code              8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.02 % 
+
+🐱‍💻 Projects: 
+银行回单财务协同系统               9 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
+astr_web_craw            2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+ground-resistance-setup  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+nonebot-plugin-skland    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+ui-lightning-standalone  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+
+💻 Operating System: 
+Windows                  21 hrs 23 mins      █████████████████████████   98.98 % 
+Linux                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 05/06/2026 04:23:32 UTC
+ Last Updated on 06/06/2026 04:05:56 UTC
 <!--END_SECTION:waka-->
