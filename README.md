@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C806%20hrs%2030%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,39 +75,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   37.29 % 
-Markdown                 8 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Other                    4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-JSON                     3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-YAML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+TypeScript               6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Markdown                 3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+JSON                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-Omp                      34 hrs 36 mins      ██████████████████████░░░   88.22 % 
-VS Code                  4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Omp                      15 hrs 59 mins      ████████████████████░░░░░   81.80 % 
+VS Code                  3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
 
 🐱‍💻 Projects: 
-wx-sales                 33 hrs 33 mins      █████████████████████░░░░   85.54 % 
-ground-resistance        2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-lightning-setup          1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-ground-resistance-ui     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-季度总结                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+wx-sales                 14 hrs 59 mins      ███████████████████░░░░░░   76.70 % 
+ground-resistance        2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+ground-resistance-ui     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+lightning-setup          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+季度总结                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Windows                  39 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   18 repos            ████████████░░░░░░░░░░░░░   46.15 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 01/07/2026 04:39:58 UTC
+ Last Updated on 02/07/2026 04:07:01 UTC
 <!--END_SECTION:waka-->
