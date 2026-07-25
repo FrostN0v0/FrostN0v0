@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C893%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,25 +75,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 49 mins       ████████████████░░░░░░░░░   65.60 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Jinja                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Python                   9 hrs 30 mins       ██████████████░░░░░░░░░░░   55.67 % 
+Markdown                 4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Jinja                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 12 mins       ███████████████░░░░░░░░░░   60.41 % 
-Omp                      4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
+Omp                      8 hrs 47 mins       █████████████░░░░░░░░░░░░   51.50 % 
+VS Code                  8 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.65 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    8 hrs 25 mins       ██████████████████░░░░░░░   70.54 % 
-Chtholly                 2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-EndfieldGachaPoolTable   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-wx-sales                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-entari-plugin-llm        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+nonebot-plugin-skland    15 hrs 22 mins      ███████████████████████░░   90.07 % 
+EndfieldGachaPoolTable   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+wx-sales                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Chtholly                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+FrostN0v0                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  11 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,5 +110,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:24:29 UTC
+ Last Updated on 25/07/2026 03:22:05 UTC
 <!--END_SECTION:waka-->
