@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C893%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C896%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,26 +75,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 30 mins       ██████████████░░░░░░░░░░░   55.67 % 
-Markdown                 4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Jinja                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   9 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.56 % 
+Markdown                 4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Jinja                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Omp                      8 hrs 47 mins       █████████████░░░░░░░░░░░░   51.50 % 
-VS Code                  8 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.65 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Omp                      11 hrs 11 mins      ███████████████░░░░░░░░░░   58.72 % 
+VS Code                  7 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    15 hrs 22 mins      ███████████████████████░░   90.07 % 
-EndfieldGachaPoolTable   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-wx-sales                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Chtholly                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-FrostN0v0                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+nonebot-plugin-skland    17 hrs 17 mins      ███████████████████████░░   90.76 % 
+lightning-cloud          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+wx-sales                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+sub2api                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Chtholly                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  17 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,5 +110,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:22:05 UTC
+ Last Updated on 26/07/2026 03:36:07 UTC
 <!--END_SECTION:waka-->
