@@ -67,7 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C780%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,26 +77,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.56 % 
-Markdown                 4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Jinja                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   8 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.33 % 
+Markdown                 4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Jinja                    2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Omp                      11 hrs 11 mins      ███████████████░░░░░░░░░░   58.72 % 
-VS Code                  7 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Omp                      11 hrs 59 mins      ████████████████░░░░░░░░░   63.12 % 
+VS Code                  6 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    17 hrs 17 mins      ███████████████████████░░   90.76 % 
-lightning-cloud          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-wx-sales                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+nonebot-plugin-skland    17 hrs 17 mins      ███████████████████████░░   91.11 % 
+lightning-cloud          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+wx-sales                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 sub2api                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Chtholly                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Chtholly                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  19 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 7 mins (63.89%)
+
+✍️ 13,211 lines written by AI, 806 lines written by hand (94.25% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.25% of written lines came from AI
+📝 Concise Prompter — average 9 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 16.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,5 +132,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:45:03 UTC
+ Last Updated on 28/07/2026 03:15:52 UTC
 <!--END_SECTION:waka-->
