@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-216%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,48 +77,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 47 mins      █████████████░░░░░░░░░░░░   50.12 % 
-Markdown                 5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Jinja                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Python                   7 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.02 % 
+Jinja                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Markdown                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Other                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-Omp                      15 hrs 47 mins      ██████████████████░░░░░░░   73.27 % 
-VS Code                  5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Omp                      10 hrs 12 mins      █████████████████░░░░░░░░   68.52 % 
+VS Code                  4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.48 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    18 hrs 57 mins      ██████████████████████░░░   88.02 % 
-Chtholly                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Desktop                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-lightning-cloud          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-tmp                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+nonebot-plugin-skland    12 hrs 21 mins      █████████████████████░░░░   82.95 % 
+Desktop                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+lightning-cloud          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Chtholly                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+tmp                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Windows                  21 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 14 mins (75.4%)
+⏱ AI Coding Time: 10 hrs 31 mins (70.62%)
 
-✍️ 15,049 lines written by AI, 394 lines written by hand (97.45% AI-written)
+✍️ 3,838 lines written by AI, 216 lines written by hand (94.67% AI-written)
 
 🔤 3,443,044 Input Tokens, 2,244 Output Tokens
 
 💵 $17.28 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.45% of written lines came from AI
-📝 Concise Prompter — average 4 characters per prompt
+🤖 AI-Driven — 94.67% of written lines came from AI
+📝 Concise Prompter — average 2 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.39% of changed lines were hand-edited
+🚀 High AI Trust — 12.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,5 +133,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:34:24 UTC
+ Last Updated on 01/08/2026 03:33:53 UTC
 <!--END_SECTION:waka-->
