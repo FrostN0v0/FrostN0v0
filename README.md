@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C790%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C793%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,33 +77,33 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 32 mins       ████████████████░░░░░░░░░   62.16 % 
-Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Jinja                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   7 hrs 28 mins       ███████████████░░░░░░░░░░   58.90 % 
+Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Jinja                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-Omp                      8 hrs 2 mins        █████████████████░░░░░░░░   66.25 % 
-VS Code                  4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Omp                      8 hrs 30 mins       █████████████████░░░░░░░░   67.01 % 
+VS Code                  4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    10 hrs 28 mins      ██████████████████████░░░   86.37 % 
-Desktop                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Chtholly                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-tmp                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-ground-resistance        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+nonebot-plugin-skland    8 hrs 28 mins       █████████████████░░░░░░░░   66.72 % 
+Chtholly                 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Desktop                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+entari-plugin-skland     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+v1.3                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Windows                  12 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 21 mins (68.84%)
+⏱ AI Coding Time: 8 hrs 49 mins (69.48%)
 
-✍️ 3,985 lines written by AI, 206 lines written by hand (95.08% AI-written)
+✍️ 15,580 lines written by AI, 219 lines written by hand (98.61% AI-written)
 
 🔤 3,443,044 Input Tokens, 2,244 Output Tokens
 
@@ -114,10 +114,10 @@ Windows                  12 hrs 7 mins       ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.08% of written lines came from AI
+🤖 AI-Driven — 98.61% of written lines came from AI
 📝 Concise Prompter — average 2 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.15% of changed lines were hand-edited
+🚀 High AI Trust — 3.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,5 +133,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 03:19:22 UTC
+ Last Updated on 05/08/2026 03:14:47 UTC
 <!--END_SECTION:waka-->
