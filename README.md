@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C793%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,61 +77,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 28 mins       ███████████████░░░░░░░░░░   58.90 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Jinja                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Python                   4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
+Other                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+PowerShell               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-Omp                      8 hrs 30 mins       █████████████████░░░░░░░░   67.01 % 
-VS Code                  4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
+Omp                      8 hrs 1 min         ██████████████████░░░░░░░   73.37 % 
+VS Code                  2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    8 hrs 28 mins       █████████████████░░░░░░░░   66.72 % 
-Chtholly                 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Desktop                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-entari-plugin-skland     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-v1.3                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+nonebot-plugin-skland    3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Chtholly                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+GPS                      1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+ground-resistance        1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Desktop                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 💻 Operating System: 
-Windows                  12 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 49 mins (69.48%)
-
-✍️ 15,580 lines written by AI, 219 lines written by hand (98.61% AI-written)
-
-🔤 3,443,044 Input Tokens, 2,244 Output Tokens
-
-💵 $17.28 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.61% of written lines came from AI
-📝 Concise Prompter — average 2 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.27% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   44.74 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Inno Setup               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 05/08/2026 03:14:47 UTC
+ Last Updated on 06/08/2026 03:17:40 UTC
 <!--END_SECTION:waka-->
