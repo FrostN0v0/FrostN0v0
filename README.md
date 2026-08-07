@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,25 +77,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
-Other                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-PowerShell               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Python                   4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
+Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Other                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+PowerShell               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 🔥 Editors: 
-Omp                      8 hrs 1 min         ██████████████████░░░░░░░   73.37 % 
-VS Code                  2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Omp                      8 hrs 15 mins       ██████████████████░░░░░░░   71.89 % 
+VS Code                  3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-skland    3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Chtholly                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-GPS                      1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-ground-resistance        1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Desktop                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+nonebot-plugin-skland    3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Chtholly                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+GPS                      1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+ground-resistance        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+entari-plugin-skland     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 💻 Operating System: 
-Windows                  10 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,5 +117,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 03:17:40 UTC
+ Last Updated on 07/08/2026 02:56:22 UTC
 <!--END_SECTION:waka-->
