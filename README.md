@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C818%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-256%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,49 +77,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Other                    8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-C                        4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-HTML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Other                    12 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   32.54 % 
+Python                   10 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+C                        7 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+HTML                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-Omp                      13 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.54 % 
-VS Code                  12 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.71 % 
-OMP                      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+VS Code                  16 hrs 35 mins      ███████████░░░░░░░░░░░░░░   44.73 % 
+Omp                      16 hrs 31 mins      ███████████░░░░░░░░░░░░░░   44.58 % 
+OMP                      3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 
 🐱‍💻 Projects: 
-Chtholly                 16 hrs 39 mins      ██████████████░░░░░░░░░░░   57.48 % 
-SPT100_last-无HART-0731 - 7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-YUNNAN-LORA-To-485       1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-ke                       1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-定位器                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Chtholly                 17 hrs 12 mins      ████████████░░░░░░░░░░░░░   46.42 % 
+SPT100_last-无HART-0731 - 15 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   41.89 % 
+YUNNAN-LORA-To-485       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+ke                       1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+定位器                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 💻 Operating System: 
-Windows                  28 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 1 min (89.86%)
+⏱ AI Coding Time: 32 hrs 32 mins (87.77%)
 
-✍️ 31,191 lines written by AI, 3,452 lines written by hand (90.04% AI-written)
+✍️ 34,666 lines written by AI, 3,811 lines written by hand (90.1% AI-written)
 
-🔤 208,175,349 Input Tokens, 745,901 Output Tokens
+🔤 253,078,458 Input Tokens, 930,846 Output Tokens
 
-💵 $1086.00 Estimated AI Cost This Week
+💵 $1454.24 Estimated AI Cost This Week
 
-🧠 1199 AI Sessions, 149 AI Prompts
+🧠 1493 AI Sessions, 189 AI Prompts
 
-OMP                      19,558 lines        █████████████████████████   100.00 % 
+OMP                      21,866 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.04% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
+🤖 AI-Driven — 90.1% of written lines came from AI
+📝 Concise Prompter — average 30 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 20.71% of changed lines were hand-edited
+🚀 High AI Trust — 20.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -135,5 +136,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 02:29:03 UTC
+ Last Updated on 14/08/2026 02:27:03 UTC
 <!--END_SECTION:waka-->
