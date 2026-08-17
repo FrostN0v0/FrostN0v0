@@ -77,36 +77,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-C                        11 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Python                   9 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-CSV                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Other                    12 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+C                        11 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Python                   9 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+CSV                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 30 mins      █████████████░░░░░░░░░░░░   53.43 % 
-Omp                      14 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   32.40 % 
-OMP                      6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+VS Code                  23 hrs 25 mins      █████████████░░░░░░░░░░░░   53.34 % 
+Omp                      14 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   32.45 % 
+OMP                      6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-SPT100_last-无HART-0731 - 27 hrs 38 mins      ████████████████░░░░░░░░░   62.84 % 
-Chtholly                 10 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-tts-on-server            2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+SPT100_last-无HART-0731 - 27 hrs 38 mins      ████████████████░░░░░░░░░   62.95 % 
+Chtholly                 10 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+tts-on-server            2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 ke                       1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-定位器                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+定位器                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 💻 Operating System: 
-Windows                  43 hrs 30 mins      █████████████████████████   98.89 % 
+Windows                  43 hrs 25 mins      █████████████████████████   98.89 % 
 Linux                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 5 mins (88.85%)
+⏱ AI Coding Time: 39 hrs 5 mins (89.02%)
 
-✍️ 39,292 lines written by AI, 4,845 lines written by hand (89.02% AI-written)
+✍️ 39,292 lines written by AI, 4,657 lines written by hand (89.4% AI-written)
 
 🔤 307,571,221 Input Tokens, 1,137,012 Output Tokens
 
@@ -119,10 +119,10 @@ GPT                      0 lines             ░░░░░░░░░░░�
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.02% of written lines came from AI
+🤖 AI-Driven — 89.4% of written lines came from AI
 📝 Concise Prompter — average 34 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 23.08% of changed lines were hand-edited
+🚀 High AI Trust — 22.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +138,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 01:45:02 UTC
+ Last Updated on 17/08/2026 01:43:06 UTC
 <!--END_SECTION:waka-->
