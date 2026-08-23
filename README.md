@@ -77,51 +77,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        32 hrs 38 mins      ████████████░░░░░░░░░░░░░   47.78 % 
-Python                   11 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Other                    10 hrs 32 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-CSV                      7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Markdown                 3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+C                        30 hrs 34 mins      █████████████░░░░░░░░░░░░   50.20 % 
+Python                   9 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Other                    9 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+CSV                      5 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Markdown                 2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-Omp                      34 hrs 56 mins      █████████████░░░░░░░░░░░░   51.16 % 
-VS Code                  21 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   32.18 % 
-OMP                      7 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Claude Code              3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Omp                      32 hrs 52 mins      █████████████░░░░░░░░░░░░   53.98 % 
+VS Code                  17 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+OMP                      6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Claude Code              3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-SPT100_last-无HART-0731 - 52 hrs 57 mins      ███████████████████░░░░░░   77.53 % 
-Chtholly                 13 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-tts-on-server            1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-guonenganchu             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+SPT100_last-无HART-0731 - 48 hrs 1 min        ████████████████████░░░░░   78.85 % 
+Chtholly                 11 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+tts-on-server            39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+ground-resistance-service8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  67 hrs 57 mins      █████████████████████████   99.50 % 
-Linux                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Windows                  60 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 66 hrs 41 mins (97.64%)
+⏱ AI Coding Time: 60 hrs 19 mins (99.06%)
 
-✍️ 42,128 lines written by AI, 1,099 lines written by hand (97.46% AI-written)
+✍️ 35,020 lines written by AI, 37 lines written by hand (99.89% AI-written)
 
-🔤 435,059,418 Input Tokens, 966,131 Output Tokens
+🔤 393,828,698 Input Tokens, 843,413 Output Tokens
 
-💵 $2403.41 Estimated AI Cost This Week
+💵 $2174.39 Estimated AI Cost This Week
 
-🧠 2131 AI Sessions, 197 AI Prompts
+🧠 1903 AI Sessions, 164 AI Prompts
 
-OMP                      32,637 lines        █████████████████████████   100.00 % 
+OMP                      27,645 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.46% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 7.23% of changed lines were hand-edited
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,5 +136,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 01:37:24 UTC
+ Last Updated on 23/08/2026 01:47:03 UTC
 <!--END_SECTION:waka-->
