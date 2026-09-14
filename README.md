@@ -77,41 +77,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.11 % 
-Other                    11 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Markdown                 6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JSON                     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-JavaScript               2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Python                   16 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   34.72 % 
+Other                    11 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Markdown                 6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+JSON                     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 39 mins      █████████████░░░░░░░░░░░░   52.35 % 
-Omp                      19 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   39.56 % 
-OMP                      3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+VS Code                  25 hrs 39 mins      █████████████░░░░░░░░░░░░   53.09 % 
+Omp                      18 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.70 % 
+OMP                      3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🐱‍💻 Projects: 
-Chtholly                 22 hrs 18 mins      ███████████░░░░░░░░░░░░░░   45.52 % 
-nonebot-plugin-skland    13 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-lobehub                  4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-ground-resistance-service3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-SPT100_last-无HART-0731 - 2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Chtholly                 21 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.77 % 
+nonebot-plugin-skland    13 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+lobehub                  4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+ground-resistance-service3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+SPT100_last-无HART-0731 - 2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-Windows                  48 hrs 59 mins      █████████████████████████   99.96 % 
+Windows                  48 hrs 17 mins      █████████████████████████   99.96 % 
 Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 30 mins (94.92%)
+⏱ AI Coding Time: 45 hrs 49 mins (94.85%)
 
-✍️ 82,343 lines written by AI, 56 lines written by hand (99.93% AI-written)
+✍️ 82,041 lines written by AI, 56 lines written by hand (99.93% AI-written)
 
-🔤 335,760,068 Input Tokens, 1,614,019 Output Tokens
+🔤 331,546,140 Input Tokens, 1,599,006 Output Tokens
 
-💵 $3539.14 Estimated AI Cost This Week
+💵 $3494.48 Estimated AI Cost This Week
 
-🧠 1549 AI Sessions, 1489 AI Prompts
+🧠 1530 AI Sessions, 1486 AI Prompts
 
 OMP                      65,160 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -136,5 +136,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 04:23:03 UTC
+ Last Updated on 14/09/2026 04:29:46 UTC
 <!--END_SECTION:waka-->
