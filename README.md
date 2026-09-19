@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-512%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-518%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,51 +77,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Other                    6 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Markdown                 5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-TypeScript               4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Vue                      3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Python                   9 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Other                    6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+TypeScript               4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Markdown                 3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Vue                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🔥 Editors: 
-Omp                      23 hrs 7 mins       ███████████████░░░░░░░░░░   58.18 % 
-VS Code                  13 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
-OMP                      3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Omp                      23 hrs 7 mins       ███████████████░░░░░░░░░░   61.46 % 
+VS Code                  11 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+OMP                      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Chtholly                 15 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   38.92 % 
-ground-resistance        12 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
-lobehub                  4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-nonebot-plugin-skland    3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-ground-resistance-service2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Chtholly                 15 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   40.94 % 
+ground-resistance        13 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   36.77 % 
+lobehub                  4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+ground-resistance-service1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+YUNNAN-LORA-To-485       1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Windows                  39 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 37 mins (94.66%)
+⏱ AI Coding Time: 36 hrs 28 mins (96.96%)
 
-✍️ 63,732 lines written by AI, 109 lines written by hand (99.83% AI-written)
+✍️ 58,997 lines written by AI, 101 lines written by hand (99.83% AI-written)
 
-🔤 351,045,731 Input Tokens, 1,424,905 Output Tokens
+🔤 476,862,041 Input Tokens, 1,820,903 Output Tokens
 
-💵 $2831.71 Estimated AI Cost This Week
+💵 $4008.63 Estimated AI Cost This Week
 
-🧠 1696 AI Sessions, 1340 AI Prompts
+🧠 2529 AI Sessions, 1427 AI Prompts
 
-OMP                      26,433 lines        █████████████████████████   100.00 % 
+OMP                      22,796 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.83% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
+📝 Concise Prompter — average 143 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -137,5 +137,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 04:16:33 UTC
+ Last Updated on 19/09/2026 04:12:51 UTC
 <!--END_SECTION:waka-->
