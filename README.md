@@ -77,50 +77,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Other                    10 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Go                       3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Markdown                 3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JSON                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    9 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Python                   9 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Go                       3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Markdown                 3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🔥 Editors: 
-Omp                      29 hrs 54 mins      ████████████████░░░░░░░░░   65.92 % 
-VS Code                  10 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-OMP                      5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Omp                      27 hrs 6 mins       █████████████████░░░░░░░░   68.07 % 
+VS Code                  7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+OMP                      4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 
 🐱‍💻 Projects: 
-Chtholly                 19 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.39 % 
-ground-resistance        13 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-direction-control        5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-test-jlc-skill           2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-nonebot-plugin-skland    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Chtholly                 16 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   40.98 % 
+ground-resistance        11 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+direction-control        5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+test-jlc-skill           2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+nonebot-plugin-skland    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Windows                  45 hrs 21 mins      █████████████████████████   99.98 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Windows                  39 hrs 48 mins      █████████████████████████   99.97 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 29 mins (98.07%)
+⏱ AI Coding Time: 38 hrs 58 mins (97.88%)
 
-✍️ 126,161 lines written by AI, 7 lines written by hand (99.99% AI-written)
+✍️ 120,699 lines written by AI, 6 lines written by hand (100.0% AI-written)
 
-🔤 1,315,593,609 Input Tokens, 7,526,511 Output Tokens
+🔤 1,139,256,429 Input Tokens, 6,860,637 Output Tokens
 
-💵 $12663.54 Estimated AI Cost This Week
+💵 $10961.77 Estimated AI Cost This Week
 
-🧠 7022 AI Sessions, 2931 AI Prompts
+🧠 5923 AI Sessions, 2568 AI Prompts
 
-OMP                      102,166 lines       █████████████████████████   100.00 % 
+OMP                      96,980 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,5 +136,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 04:30:37 UTC
+ Last Updated on 26/09/2026 04:35:14 UTC
 <!--END_SECTION:waka-->
