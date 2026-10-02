@@ -77,49 +77,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.68 % 
-Python                   4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Image (png)              1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Other                    7 hrs 29 mins       █████████████░░░░░░░░░░░░   50.75 % 
+Python                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Image (png)              1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Devicetree               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Omp                      16 hrs 48 mins      ████████████████████░░░░░   78.38 % 
-VS Code                  2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-OMP                      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Omp                      12 hrs 8 mins       █████████████████████░░░░   82.22 % 
+VS Code                  2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+OMP                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🐱‍💻 Projects: 
-Chtholly                 8 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
-Pi-RK3556                7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.99 % 
-ground-resistance-setup  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-ArknightsAssets2         1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-direction-control        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Pi-RK3556                7 hrs 42 mins       █████████████░░░░░░░░░░░░   52.22 % 
+Chtholly                 3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+ArknightsAssets2         1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+ground-resistance-setup  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+季度总结                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Windows                  21 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 15 mins (99.14%)
+⏱ AI Coding Time: 14 hrs 36 mins (98.83%)
 
-✍️ 5,440 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,894 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 592,614,301 Input Tokens, 1,139,036 Output Tokens
+🔤 358,482,414 Input Tokens, 770,846 Output Tokens
 
-💵 $7243.71 Estimated AI Cost This Week
+💵 $2411.38 Estimated AI Cost This Week
 
-🧠 2630 AI Sessions, 1202 AI Prompts
+🧠 1688 AI Sessions, 1033 AI Prompts
 
-OMP                      3,974 lines         █████████████████████████   100.00 % 
+OMP                      3,395 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 100 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+📝 Concise Prompter — average 106 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -135,5 +135,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 05:23:48 UTC
+ Last Updated on 02/10/2026 05:11:49 UTC
 <!--END_SECTION:waka-->
