@@ -77,47 +77,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.29 % 
-Python                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Image (png)              1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Devicetree               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Other                    3 hrs 58 mins       ███████████████░░░░░░░░░░   60.45 % 
+Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Image (png)              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Devicetree               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Omp                      11 hrs 43 mins      █████████████████████░░░░   84.82 % 
-VS Code                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-OMP                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Omp                      6 hrs 5 mins        ███████████████████████░░   92.53 % 
+OMP                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🐱‍💻 Projects: 
-Pi-RK3556                7 hrs 42 mins       ██████████████░░░░░░░░░░░   55.82 % 
-Chtholly                 3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-ArknightsAssets2         1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-季度总结                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-models.yml               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Pi-RK3556                5 hrs 27 mins       █████████████████████░░░░   82.79 % 
+ArknightsAssets2         25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+季度总结                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+models.yml               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Windows                  13 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 48 mins (99.95%)
+⏱ AI Coding Time: 6 hrs 34 mins (99.9%)
 
-✍️ 3,884 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 94 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 317,852,648 Input Tokens, 745,372 Output Tokens
+🔤 93,332,120 Input Tokens, 251,510 Output Tokens
 
-💵 $2244.56 Estimated AI Cost This Week
+💵 $235.48 Estimated AI Cost This Week
 
-🧠 1571 AI Sessions, 1022 AI Prompts
+🧠 472 AI Sessions, 481 AI Prompts
 
-OMP                      3,385 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
+📝 Concise Prompter — average 167 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -135,5 +135,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 05:56:03 UTC
+ Last Updated on 07/10/2026 05:29:46 UTC
 <!--END_SECTION:waka-->
