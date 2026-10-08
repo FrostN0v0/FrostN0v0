@@ -77,49 +77,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 58 mins       ███████████████░░░░░░░░░░   60.45 % 
-Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Image (png)              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Devicetree               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Omp                      6 hrs 5 mins        ███████████████████████░░   92.53 % 
-OMP                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Pi-RK3556                5 hrs 27 mins       █████████████████████░░░░   82.79 % 
-ArknightsAssets2         25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-季度总结                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-models.yml               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 34 mins (99.9%)
-
-✍️ 94 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 93,332,120 Input Tokens, 251,510 Output Tokens
-
-💵 $235.48 Estimated AI Cost This Week
-
-🧠 472 AI Sessions, 481 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 167 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -135,5 +108,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 05:29:46 UTC
+ Last Updated on 08/10/2026 05:38:10 UTC
 <!--END_SECTION:waka-->
