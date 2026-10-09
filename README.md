@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C071%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C073%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-571%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-578%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,22 +77,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 hrs 38 mins       ██████████████████░░░░░░░   70.81 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Image (png)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+C                        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Omp                      6 hrs 14 mins       ████████████████████████░   95.33 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+OMP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Pi-RK3556                6 hrs 2 mins        ███████████████████████░░   92.39 % 
+Chtholly                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+YUNNAN-LORA-To-485       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 31 mins (99.74%)
+
+✍️ 8,031 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 106,397,924 Input Tokens, 328,949 Output Tokens
+
+💵 $755.76 Estimated AI Cost This Week
+
+🧠 550 AI Sessions, 562 AI Prompts
+
+OMP                      3 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +133,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 05:38:10 UTC
+ Last Updated on 09/10/2026 05:42:25 UTC
 <!--END_SECTION:waka-->
