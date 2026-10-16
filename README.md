@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C095%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C099%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-608%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-614%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,47 +77,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   35.97 % 
-Python                   9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Markdown                 4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JavaScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python                   11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Other                    10 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+Markdown                 4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JSON                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-Omp                      24 hrs 25 mins      ████████████████░░░░░░░░░   64.69 % 
-VS Code                  7 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-OMP                      5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Omp                      21 hrs 23 mins      ███████████████░░░░░░░░░░   58.10 % 
+VS Code                  9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+OMP                      5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
 
 🐱‍💻 Projects: 
-Chtholly                 20 hrs 37 mins      ██████████████░░░░░░░░░░░   54.63 % 
-Pi-RK3556                11 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   31.40 % 
-ground-resistance-service4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-YUNNAN-LORA-To-485       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-nonebot-plugin-skland    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Chtholly                 24 hrs 37 mins      █████████████████░░░░░░░░   66.88 % 
+Pi-RK3556                5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+ground-resistance-service4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+nonebot-plugin-skland    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+EndfieldGachaPoolTable   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  37 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 16 mins (98.7%)
+⏱ AI Coding Time: 36 hrs 19 mins (98.68%)
 
-✍️ 102,696 lines written by AI, 3 lines written by hand (100.0% AI-written)
+✍️ 98,085 lines written by AI, 3 lines written by hand (100.0% AI-written)
 
-🔤 498,008,706 Input Tokens, 2,552,718 Output Tokens
+🔤 508,779,422 Input Tokens, 2,642,808 Output Tokens
 
-💵 $3773.82 Estimated AI Cost This Week
+💵 $3802.43 Estimated AI Cost This Week
 
-🧠 2866 AI Sessions, 1898 AI Prompts
+🧠 3159 AI Sessions, 1697 AI Prompts
 
-OMP                      85,419 lines        █████████████████████████   100.00 % 
+OMP                      86,797 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 90 characters per prompt
+📝 Concise Prompter — average 102 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -135,5 +136,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 04:11:50 UTC
+ Last Updated on 16/10/2026 04:07:58 UTC
 <!--END_SECTION:waka-->
