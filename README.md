@@ -67,9 +67,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C138%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-660%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-671%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,48 +77,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 44 mins      ███████████░░░░░░░░░░░░░░   43.50 % 
-Other                    9 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-Markdown                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Image (png)              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   14 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   41.85 % 
+Other                    12 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   37.13 % 
+Markdown                 2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+JavaScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-Omp                      24 hrs 31 mins      █████████████████████░░░░   83.71 % 
-VS Code                  3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-OMP                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Omp                      26 hrs 9 mins       ███████████████████░░░░░░   77.38 % 
+OMP                      4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+VS Code                  3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🐱‍💻 Projects: 
-Chtholly                 24 hrs 29 mins      █████████████████████░░░░   83.55 % 
-nonebot-plugin-skland    4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-entari-plugin-llm        20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-EndfieldGachaPoolTable   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-YUNNAN-LORA-To-485       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Chtholly                 29 hrs 15 mins      ██████████████████████░░░   86.58 % 
+nonebot-plugin-skland    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+entari-plugin-llm        20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+EndfieldGachaPoolTable   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  29 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 29 mins (97.23%)
+⏱ AI Coding Time: 32 hrs 52 mins (97.26%)
 
-✍️ 51,501 lines written by AI, 17 lines written by hand (99.97% AI-written)
+✍️ 51,049 lines written by AI, 17 lines written by hand (99.97% AI-written)
 
-🔤 311,335,322 Input Tokens, 1,898,954 Output Tokens
+🔤 339,532,243 Input Tokens, 1,944,695 Output Tokens
 
-💵 $2618.04 Estimated AI Cost This Week
+💵 $2775.68 Estimated AI Cost This Week
 
-🧠 2260 AI Sessions, 1364 AI Prompts
+🧠 2403 AI Sessions, 1219 AI Prompts
 
-GPT                      2,264 lines         ███████████████████████░░   91.25 % 
-OMP                      217 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+GPT                      2,425 lines         ███████████████████████░░   91.79 % 
+OMP                      217 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
+📝 Concise Prompter — average 79 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
@@ -136,5 +137,5 @@ Inno Setup               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 05:09:58 UTC
+ Last Updated on 29/10/2026 05:21:55 UTC
 <!--END_SECTION:waka-->
